@@ -1,1 +1,0 @@
-# mailhive-icons
